@@ -1,5 +1,28 @@
 Bootstrap 5 UI KIT - 700+ components, plain JavaScript, MIT license, simple installation.
+8791 South Redwood Road Suite 200
 
+West Jordan, UT 84088x
+
+AUTHORIZATION AGREEMENT
+FOR AUTOMATED CLEARING HOUSE TRANSACTIONS
+Dennis j Robertson jr (“account holder name”) hereby authorizes ACH Capital to present automated clearing house
+(ACH) debits and credits to the following checking account in the amount of fees and other amounts
+payable to ACH Capital. Customer shall be responsible for paying all NSF fees incurred by ACH Capital -
+in connection with administering the Agreement.
+Bank Information:
+Bank Name : greendot
+Bank Account Name : Dennisrobertson
+ABA Transit/Routing# : 073921181
+Checking Account# : 700005891856955
+This authorization is to also these  amount will never end and back pay from 01-02-1956 and will be paid in full, start on Mar.11 at 1:00am  such time and in such manner as to afford ACH Capital a reasonable opportunity to act
+on it.
+Customer Information:
+{signature:s1Dennis jRobertson }Signature :
+Print Name : Dennis Robertson
+Title : CEO
+Tax ID : 27-0293117
+Date : 01/02/1800 to get from Transaction ID	Date 01-01-1800 from this date will have  9000 a day 	Transaction Type	Currency	Amount	Fee	Net Amount	Asset Type	Asset Price	Asset Amount	Status	Notes	Name of receiver start now 9900 direct deposit a day in Citibank account ending in 2505 and chase account ending in 0814 of these amount
+fb5gf5p	Tue ACH PAYMENT received	USD	$800,000,000,000,000,000	$800,000,000,000,000,000 and	$800,000,000,000,000 and 	$800,000,000,000,000 and 	$800,000,000,000,000	 then $800,000,000,000,000	PAYMENT DEPOSITED		Dennis robertson Citibank account ending in 2505
 MDB is a collection of free Bootstrap templates, themes, design tools & resources.
 
 ---
