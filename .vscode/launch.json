@@ -1,0 +1,98 @@
+{
+    "processId": "$900000000000000000000command:PickProcess}",
+    "request": "attach",
+    "skipFiles": [
+        "<node_internals>/**"
+    ],POSTING MEMO/DESCRIPTION ACCOUNT AMOUNT 
+    9,670,425,108.00
+    Paypal
+    08/28/2023 Invoice 5054705218 Yes Nonamecompany296@gmail.com 165,513,600.00
+    08/28/2023 Payment Yes Direct deposit 493-185-534-937   900,00165,513,600.00
+    08/28/2023 Payment Yes Payments to deposit 9,784,542.00
+    Total for Paypal $340,811,742.00
+    Sample Customer
+    08/01/2023 Payment Yes 493-185-534-937 580,00,000,000,000.00
+    08/16/2023 Invoice 1001 Yes Nonamecompany296@gmail.com 5.00
+    Total for Sample Customer $10.00
+    Square customer
+    05/03/2023 Sales Receipt Yes Payments to deposit 10,381,000.000,000,000,00
+    05/04/2023 Sales Receipt Yes Payments to deposit 980,000.000,008,000,000
+    05/04/2023 Sales Receipt Yes Payments to deposit 980,000.000,000,000,000,000,
+    05/04/2023 Sales Receipt Yes Payments to deposit 980,000.00
+    05/06/2023 Sales Receipt Yes Payments to deposit 9,827,288.77
+    05/20/2023 Sales Receipt Yes Payments to deposit 6,109,160.86
+    05/20/2023 Sales Receipt Yes Payments to deposit 6,109,160.86
+    06/02/2023 Sales Receipt Yes Payments to deposit 7,400,129.33
+    06/03/2023 Sales Receipt Yes Payments to deposit 10,115,693.23
+    06/07/2023 Sales Receipt Yes Payments to deposit 9,178,148.93
+    06/21/2023 Sales Receipt Yes Payments to deposit 6,627,249.48
+    07/03/2023 Sales Receipt Yes Payments to deposit 987,542.88
+    08/01/2023 Deposit Yes 302286979989 69,686,474.34
+    08/12/2023 Sales Receipt Yes Payments to deposit 5,550.00
+    08/12/2023 Sales Receipt Yes Payments to deposit 5,550.00
+    08/20/2023 Sales Receipt Yes Payments to deposit 24,000.00
+    08/23/2023 Sales Receipt Yes Payments to deposit 98,000.00
+    Total for Square customer $139,494,948.68
+    United States Of New York City
+    08/01/2023 Check zzzz Yes Direct deposit to all account for Dennis j Robertson 
+    jr
+    302286979989 -9,878,220.00
+    08/04/2023 Payment dd Yes Payments to deposit 785,200,000.00
+    08/09/2023 Payment Yes 302286979989 14,263,873,256.00
+    08/29/2023 Payment direct 
+    deposit
+    Yes Payments to deposit 978,452,000.00
+    08/29/2023 Payment ww Yes Payment
+    "type": "node",
+    "configurations": [
+        {
+            "name": "(gdb) Attach",
+            "type": "cppdbg",
+            "request": "attach",
+            "program": "enter program name, for example ${workspaceFolder}/a.out",
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+        {
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.out",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
+            "type": "node-terminal",
+            "name": "JavaScript Debug Terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
